@@ -1,0 +1,9 @@
+# IDE
+.vscode/
+
+# Mac Files
+.DS_Store
+
+# Ignore binaries
+
+# Ignore files
